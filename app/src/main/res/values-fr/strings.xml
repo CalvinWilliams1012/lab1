@@ -7,5 +7,7 @@
     <string name="Login">S\'identifier</string>
     <string name="LoginName">Identifiant</string>
     <string name="Password">Mot de Passe</string>
-
+    <string name="Button1">Bouten1</string>
+    <string name="Button2">Bouten2</string>
+    <string name="Switch">Activer Something</string>
 </resources>
